@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un repositorio de prueba del modulo 2 de henry
+Este es un proyecto de prueba de como clonar y gitbuh bla bla
